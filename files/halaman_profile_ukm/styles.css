@@ -119,3 +119,24 @@
   width:83px;
   white-space:nowrap;
 }
+#u10 {
+  position:absolute;
+  left:520px;
+  top:260px;
+  width:224px;
+  height:28px;
+}
+#u10_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:224px;
+  height:28px;
+}
+#u11 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:224px;
+  white-space:nowrap;
+}
